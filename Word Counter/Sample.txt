@@ -1,0 +1,5 @@
+
+Python is a powerful programming language.
+Python is widely used in Data Science.
+Machine Learning is an important field of Artificial Intelligence.
+Python makes programming easy and interesting.
